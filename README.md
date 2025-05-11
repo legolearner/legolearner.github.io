@@ -1,2 +1,4 @@
 # legolearner.github.io
-My Personal Portfolio :)
+My Portfolio Website :)
+
+Haven't started it yet though hehe
